@@ -1,0 +1,5 @@
+E:\C#\Обучение\Урок3\Лекция\Lesson3\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+E:\C#\Обучение\Урок3\Лекция\Lesson3\Lesson3\bin\Debug\Lesson3.dll
+E:\C#\Обучение\Урок3\Лекция\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+E:\C#\Обучение\Урок3\Лекция\Lesson3\Lesson3\obj\Debug\Lesson3.dll
+E:\C#\Обучение\Урок3\Лекция\Lesson3\Lesson3\obj\Debug\Lesson3.pdb

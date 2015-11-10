@@ -1,0 +1,12 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.csprojResolveAssemblyReference.cache
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.exe.config
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.exe
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.pdb
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.exe
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\bin\Debug\Hello_Operators_lect.pdb
+E:\C#\Обучение\Урок3\Лекция\Hello_Operators_lect\Hello_Operators_lect\obj\Debug\Hello_Operators_lect.csprojResolveAssemblyReference.cache

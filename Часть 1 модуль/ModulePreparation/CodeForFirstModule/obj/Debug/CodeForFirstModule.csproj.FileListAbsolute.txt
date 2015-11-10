@@ -1,0 +1,6 @@
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\bin\Debug\CodeForFirstModule.exe.config
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\bin\Debug\CodeForFirstModule.exe
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\bin\Debug\CodeForFirstModule.pdb
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\obj\Debug\CodeForFirstModule.csprojResolveAssemblyReference.cache
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\obj\Debug\CodeForFirstModule.exe
+E:\C#\Обучение\Часть 1 модуль\ModulePreparation\CodeForFirstModule\obj\Debug\CodeForFirstModule.pdb
